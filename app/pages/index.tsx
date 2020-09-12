@@ -15,6 +15,7 @@ const UserInfo = () => {
   if (currentUser) {
     return (
       <>
+        <div>Yoooo</div>
         <button
           className="button small"
           onClick={async () => {
